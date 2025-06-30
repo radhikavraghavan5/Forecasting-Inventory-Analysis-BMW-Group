@@ -1,7 +1,5 @@
 # Forecasting-Inventory-Analysis-BMW-Group
 
-<img width="894" alt="Screenshot 2023-05-19 at 2 30 10 PM" src="https://github.com/viradhikaa/Forecasting-Inventory-Analysis-BMW-Group/assets/56044346/a2f8aae3-86f4-4bec-ad03-0dae662f5c59">
-
 <img width="1032" alt="Screenshot 2023-05-19 at 2 32 03 PM" src="https://github.com/viradhikaa/Forecasting-Inventory-Analysis-BMW-Group/assets/56044346/3b755aa0-3126-4304-8884-6256f5edf0a9">
 
 <img width="1033" alt="Screenshot 2023-05-19 at 2 32 23 PM" src="https://github.com/viradhikaa/Forecasting-Inventory-Analysis-BMW-Group/assets/56044346/8cd00672-05c0-4283-b1f4-ea88a64edcd8">
